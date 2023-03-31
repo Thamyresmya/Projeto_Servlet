@@ -2,10 +2,10 @@
 | -------------  | --- |
 | :sparkles: Nome        | **Java Servlet**
 | :label: Tecnologias | Java, Servlet, Html, Css
-| :rocket: URL         | thamyresmya/Projeto_Servlet/
+| :rocket: URL         | https://github.com/Thamyresmya/Projeto_Servlet
 | :fire: Desafio     | 
 
-![](capa.jpg)
+![](Inf/capa.jpg)
 
 
 # Projeto Servlet: Programação web Java
@@ -44,7 +44,7 @@ Projeto desenvolvido junto com o curso da Alura, primeiro projeto com Sevlet, fo
 ## 📸 Gif
 Processo dinâmico.
 
-<img width="70%" height="300" src="Servlet1.gif"></img>
+<img width="70%" height="300" src="Inf/Servlet1.gif"></img>
 
 
 <br>
@@ -52,19 +52,19 @@ Processo dinâmico.
 ## 📸 Imagens
 Pagina bem-vindo.
 
-<img width="70%" height="300" src="1.png"></img>
+<img width="70%" height="300" src="Inf/1.png"></img>
 
 Pagina Cadastro Empresa.
 
-<img width="70%" height="300" src="2.png"></img>
+<img width="70%" height="300" src="Inf/2.png"></img>
 
 Pagina Lista Empresa.
 
-<img width="70%" height="300" src="3.png"></img>
+<img width="70%" height="300" src="Inf/3.png"></img>
 
 Pagina Altera Empresa.
 
-<img width="70%" height="300" src="4.png"></img>
+<img width="70%" height="300" src="Inf/4.png"></img>
 
 
 <br>
