@@ -37,7 +37,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto desenvolvido junto com o curso da Alura, primeiro projeto com Sevlet, foram desenvolvidos mapeamentos de requisições HTTP, trabalhando com POST e GET, gerando paginas HTML dinamicamente com JSP e JSTL, redirecionando o fluxo e criação de CRUD completo. 
+Projeto desenvolvido em curso na Alura. Primeiro projeto com Sevlet, utilizando TomCat, foram desenvolvidos mapeamentos de requisições HTTP, trabalhando com POST e GET, gerando paginas HTML dinamicamente com JSP e JSTL, redirecionando o fluxo e criação de CRUD completo. 
 
 <br>
 
