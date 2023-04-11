@@ -37,34 +37,40 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto desenvolvido junto com o curso da Alura, primeiro projeto com Sevlet, foram desenvolvidos mapeamentos de requisições HTTP, trabalhando com POST e GET, gerando paginas HTML dinamicamente com JSP e JSTL, redirecionando o fluxo e criação de CRUD completo. 
+Projeto desenvolvido junto com professor Nico Steppat da Alura. <br>
+Formação: Java Web: crie aplicações com Servlets e MVC usando Java.<br>
+Projeto com Sevlet, foram desenvolvidos mapeamentos de requisições HTTP, trabalhando com POST e GET, gerando paginas HTML dinamicamente com JSP e JSTL, redirecionando o fluxo e criação de CRUD completo. Também foi desenvolvido um sistema com autenticação e autorização, usando o objeto HttpSession e aprendendo sobre Cookies, foram construida camadas MVC baseados em Filters e Servlets. Por fim implementação do WebService com JSON e XML.
 
 <br>
 
 ## 📸 Gif
 Processo dinâmico.
 
-<img width="70%" height="300" src="Inf/Servlet1.gif"></img>
+<img width="70%" height="300" src="Inf/Servlet - Final.gif"></img>
 
 
 <br>
 
 ## 📸 Imagens
-Pagina bem-vindo.
+Página Login.
+
+<img width="70%" height="300" src="Inf/login.png"></img>
+
+Página bem-vindo.
 
 <img width="70%" height="300" src="Inf/1.png"></img>
 
-Pagina Cadastro Empresa.
+Página Cadastro de Empresa.
 
-<img width="70%" height="300" src="Inf/2.png"></img>
+<img width="70%" height="300" src="Inf/cadastraEmpresa.png"></img>
 
-Pagina Lista Empresa.
+Página Lista Empresas.
 
-<img width="70%" height="300" src="Inf/3.png"></img>
+<img width="70%" height="300" src="Inf/listaEmpresa.png"></img>
 
-Pagina Altera Empresa.
+Página Altera Empresa.
 
-<img width="70%" height="300" src="Inf/4.png"></img>
+<img width="70%" height="300" src="Inf/alteraEmpresa.png"></img>
 
 
 <br>
