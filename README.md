@@ -37,9 +37,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto desenvolvido junto com professor Nico Steppat da Alura. <br>
-Formação: Java Web: crie aplicações com Servlets e MVC usando Java.<br>
-Projeto com Sevlet, foram desenvolvidos mapeamentos de requisições HTTP, trabalhando com POST e GET, gerando paginas HTML dinamicamente com JSP e JSTL, redirecionando o fluxo e criação de CRUD completo. Também foi desenvolvido um sistema com autenticação e autorização, usando o objeto HttpSession e aprendendo sobre Cookies, foram construida camadas MVC baseados em Filters e Servlets. Por fim implementação do WebService com JSON e XML.
+Projeto desenvolvido junto com o curso da Alura, primeiro projeto com Sevlet, foram desenvolvidos mapeamentos de requisições HTTP, trabalhando com POST e GET, gerando paginas HTML dinamicamente com JSP e JSTL, redirecionando o fluxo e criação de CRUD completo. 
 
 <br>
 
